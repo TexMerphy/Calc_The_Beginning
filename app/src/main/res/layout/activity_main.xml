@@ -9,9 +9,6 @@
     android:background="@drawable/elements"
     android:theme="@style/Calc_Style">
 
-
-
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
@@ -220,4 +217,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button1"
         style="@style/Calc_Style"/>
+/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
